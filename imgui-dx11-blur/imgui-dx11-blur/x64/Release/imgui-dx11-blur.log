@@ -1,9 +1,0 @@
-﻿  main.cpp
-  Generating code
-  1 of 1986 functions (<0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    42 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  imgui-dx11-blur.vcxproj -> C:\Users\antia\Desktop\imgui-dx11-blur\imgui-dx11-blur\x64\Release\imgui-dx11-blur.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
