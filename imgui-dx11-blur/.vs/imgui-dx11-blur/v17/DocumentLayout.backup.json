@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C09B4-7626-4B2F-919C-09A1B32558F3}|imgui-dx11-blur\\imgui-dx11-blur.vcxproj|C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B2C09B4-7626-4B2F-919C-09A1B32558F3}|imgui-dx11-blur\\imgui-dx11-blur.vcxproj|solutionrelative:imgui-dx11-blur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C09B4-7626-4B2F-919C-09A1B32558F3}|imgui-dx11-blur\\imgui-dx11-blur.vcxproj|C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\blur.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B2C09B4-7626-4B2F-919C-09A1B32558F3}|imgui-dx11-blur\\imgui-dx11-blur.vcxproj|solutionrelative:imgui-dx11-blur\\blur.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\main.cpp",
+              "RelativeDocumentMoniker": "imgui-dx11-blur\\main.cpp",
+              "ToolTip": "C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\main.cpp",
+              "RelativeToolTip": "imgui-dx11-blur\\main.cpp",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T12:07:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "blur.hpp",
+              "DocumentMoniker": "C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\blur.hpp",
+              "RelativeDocumentMoniker": "imgui-dx11-blur\\blur.hpp",
+              "ToolTip": "C:\\Users\\antia\\Desktop\\imgui-dx11-blur\\imgui-dx11-blur\\imgui-dx11-blur\\blur.hpp",
+              "RelativeToolTip": "imgui-dx11-blur\\blur.hpp",
+              "ViewState": "AgIAALMBAAAAAAAAAAAUwNQBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-15T12:07:47.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
